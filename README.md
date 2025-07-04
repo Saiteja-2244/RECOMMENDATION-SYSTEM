@@ -94,3 +94,5 @@ Recommendation systems play a crucial role in today’s digital ecosystem by sim
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/cc21be04-081a-4569-83ba-f54739d4cea8)
+
